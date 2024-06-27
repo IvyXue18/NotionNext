@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://ivyxue8120.com/' }
+    { title: '欢迎来到我的博客 | Welcome to my blog!', url: 'https://ivyxue8120.com/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -22,9 +22,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://qo8lbj0htr.feishu.cn/wiki/TiCawrg1SijjYBk8rwbcS4FsnJc?from=from_copylink',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '精选', url: '/tag/精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门', url: '/tag/热门' },
-  HEO_HERO_CATEGORY_3: { title: '教程', url: '/tag/教程' },
+  HEO_HERO_CATEGORY_1: { title: '精选 Selections', url: '/tag/精选' },
+  HEO_HERO_CATEGORY_2: { title: '热门 Popular', url: '/tag/热门' },
+  HEO_HERO_CATEGORY_3: { title: '教程 Tutorials', url: '/tag/教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
