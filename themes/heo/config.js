@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '产品，设计，编程，营销',
   HEO_HERO_TITLE_4: '置顶',
   HEO_HERO_TITLE_5: '我的说明书',
-  HEO_HERO_TITLE_LINK: 'https://ivyxue8120.com/about',
+  HEO_HERO_TITLE_LINK: 'https://qo8lbj0htr.feishu.cn/wiki/TiCawrg1SijjYBk8rwbcS4FsnJc?from=from_copylink',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '精选 Selections', url: '/tag/精选' },
@@ -107,7 +107,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '一起讨论碰撞分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击添加微信',
-  HEO_SOCIAL_CARD_URL: 'https://ivyxue8120.com/about',
+  HEO_SOCIAL_CARD_URL: 'https://qo8lbj0htr.feishu.cn/wiki/TiCawrg1SijjYBk8rwbcS4FsnJc?from=from_copylink',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
